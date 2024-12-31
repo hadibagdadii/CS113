@@ -1,0 +1,2 @@
+If I am at home OR I am away THEN turn the outdoor security cameras on.
+If I am NOT home OR my mom is NOT home THEN turn off the stove.

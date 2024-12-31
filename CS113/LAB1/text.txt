@@ -1,0 +1,25 @@
+void cartesianProductAxBC() {
+    std::vector<std::tuple<int, int, int>> result;
+    for (int a : setA) {
+        for (int b : setB) {
+            for (int c : setC) {
+                result.emplace_back(a, b, c);
+                cout << a << ", " << b << ", " << c << endl;
+            }
+        }
+    }
+    cout << "The length of the Cartesian product is: " << result.size() << endl;
+    return ;
+}
+
+vector<pair<int, int> > cartesianProduct(vector<int> &a, vector<int> &b) {
+    vector<pair<int, int> > result;
+    for (int i : a) {
+        for (int j : b) {
+            result.push_back({i, j});
+            cout << i << ", " << j << endl;
+        }
+    }
+    cout << "The length of the Cartesian product is: " << result.size() << endl;
+    return result;
+}

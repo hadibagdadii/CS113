@@ -1,0 +1,5 @@
+Team:
+Jamal Nawabi
+Hadi Bagdadi
+
+For this assignment we will construct a calculator using the given Arduino Kit from class. This specific calculator will be able to operate using several functions including addition, subtraction, multiplication, division, powers and remainders. We will code a program that will be able to perform these functions using the given Arduino kit. We will implement a keypad that will connect to the Arduino kit and will be used to send the values to the calculator program in order to perform the basic mathematic functions and equations. We will also need an LCD Display in order to display the values given from the calculator program. 

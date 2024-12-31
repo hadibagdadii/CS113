@@ -1,0 +1,26 @@
+65  Air Purifier#Control indoor air quality#0
+66  Appliances#Automatically turn on/off appliances#0
+67  Blinds#Adjust blinds UV Rays#0
+68  Computer#Automatically turn on/off computer#0
+69  Curtains#Adjust shades#0
+70  Door Locks#Monitor your house#0
+71  Door Sensors#Monitor your house#0
+72  Entertainment#Automatically turn on/off entertainment#0
+73  Garage Door#Open garages#0
+74  Home Sensors#Monitor your house#0
+75  Indoor Plug#Standby mode#0
+76  Indoor Security Camera#Monitor your house#0
+77  Lawn Sprinkler Controller#Automatically regulate your sprinklers#0
+78  Light#Automatically turn on/off light#0
+79  Light Bulbs#Programmed low energy lighting#0
+80  Meter#Track your energy consumption#0
+81  Outdoor Security Camera#Monitor your house#0
+82  Oven#Turn on/off oven#0
+83  Robot Vacuum#Automatically vacuum#0
+84  Siren#Deter unwanted intruder#0
+85  Smart Lock#Open garages#0
+86  Smoke & CO2 Detectors#Tell you what danger#0
+87  Speaker#Turn on/off speaker#0
+88  Thermostats#Control temperatures#0
+89  Video Doorbell#Answer your doorbell#0
+90  Window Sensors#Notify window is open#0

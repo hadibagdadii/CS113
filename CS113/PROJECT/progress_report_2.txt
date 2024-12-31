@@ -1,0 +1,13 @@
+Project: Hadi Bagdadi, Jamal Nawabi
+
+Arduino Mega; 16x2 LCD Display; 4x4 Keymap; 9V Battery; Breadboard & connecting wires
+
+To create our simple functional calculator using Arduino mega, we chose to use the breadboard, LCD, and 4x4 keymap along with the Arduino micro computer. My partner went ahead and programmed the code to read user inputs via the keymap. He used a 2 dimensional char array to virtually create the keymap, using columns and rows to determine the value of each button. He used if statements to store user inputs. I then wrote the code to calculate whatever commands are being inputted. I worked on detecting what the user inputs, and convert that to real integers. After doing whatever necessary calculations, it outputs the answer to the LCD. Since I was in possession of the kit, I finished the remaining necessary wiring and framework. I also constructed our truth table. We plan to finish debugging, and working on other issues like backlighting our display this week.
+
+Truth Table:
+| p | q | Function       | Output |
+|---|---|----------------|--------|
+| p | q | Addition       |   p+q  |
+| p | q | Subtraction    |   p-q  |
+| p | q | Multiplication |   p*q  |
+| p | q | Division       |   p/q  |
